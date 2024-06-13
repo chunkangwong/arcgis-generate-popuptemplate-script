@@ -16,7 +16,9 @@ URL=your_map_server_url # e.g. https://{domain}/{server_adapter}/rest/services/{
 To run:
 
 ```bash
-bun run index.ts
+bun start
+
+Usage: generate-popup-template --url <url> --token <token> --output <output>
 ```
 
 This project was created using `bun init` in bun v1.1.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
