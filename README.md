@@ -6,13 +6,6 @@ To install dependencies:
 bun install
 ```
 
-Prepare .env file with the following content:
-
-```bash
-API_KEY=your_api_key    # API key generated with referer as client
-URL=your_map_server_url # e.g. https://{domain}/{server_adapter}/rest/services/{service_name}/MapServer
-```
-
 To run:
 
 ```bash
