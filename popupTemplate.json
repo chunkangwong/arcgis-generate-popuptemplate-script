@@ -1,0 +1,1713 @@
+[
+  {
+    "title": "District Boundaries",
+    "visible": true,
+    "id": 5,
+    "sublayers": [
+      {
+        "title": "YISHUN",
+        "id": 32,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "WOODLANDS",
+        "id": 31,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "TOA PAYOH",
+        "id": 30,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "TELOK BLANGAH",
+        "id": 29,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "TAMPINES",
+        "id": 28,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "SIMEI",
+        "id": 27,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "SERANGOON",
+        "id": 26,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "SENGKANG",
+        "id": 25,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "SEMBAWANG",
+        "id": 24,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "REDHILL",
+        "id": 23,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "PUNGGOL",
+        "id": 22,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "POTONG PASIR",
+        "id": 21,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "PASIR RIS",
+        "id": 20,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "JURONG WEST",
+        "id": 19,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "JURONG EAST",
+        "id": 18,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "HOUGANG",
+        "id": 17,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "GEYLANG",
+        "id": 16,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "EUNOS",
+        "id": 15,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "CITY",
+        "id": 14,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "CHOA CHU KANG",
+        "id": 13,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "CHAI CHEE",
+        "id": 12,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "BUKIT TIMAH",
+        "id": 11,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "BUKIT PANJANG",
+        "id": 10,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "BUKIT BATOK",
+        "id": 9,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "BISHAN",
+        "id": 8,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "BEDOK",
+        "id": 7,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "ANG MO KIO",
+        "id": 6,
+        "visible": true,
+        "popupTemplate": {
+          "title": "{DISTRICT_NAME}",
+          "content": [
+            {
+              "type": "fields",
+              "fieldInfos": [
+                {
+                  "fieldName": "OBJECTID",
+                  "label": "OBJECTID"
+                },
+                {
+                  "fieldName": "SHAPE",
+                  "label": "SHAPE"
+                },
+                {
+                  "fieldName": "DISTRICT_NAME",
+                  "label": "District Name"
+                },
+                {
+                  "fieldName": "DISTRICT_LEADER",
+                  "label": "District Leader"
+                },
+                {
+                  "fieldName": "ASST_DLEADER1",
+                  "label": "Assistant Leader 1"
+                },
+                {
+                  "fieldName": "ASST_DLEADER2",
+                  "label": "Assistant Leader 2"
+                },
+                {
+                  "fieldName": "DISTRICT_MANPOWER_TOT",
+                  "label": "Total District Mapower"
+                },
+                {
+                  "fieldName": "SHAPE_Length",
+                  "label": "SHAPE_Length"
+                },
+                {
+                  "fieldName": "SHAPE_Area",
+                  "label": "SHAPE_Area"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Contour (2012)",
+    "id": 4,
+    "visible": true,
+    "popupTemplate": {
+      "title": "{CREATED_BY}",
+      "content": [
+        {
+          "type": "fields",
+          "fieldInfos": [
+            {
+              "fieldName": "OBJECTID",
+              "label": "OBJECTID"
+            },
+            {
+              "fieldName": "Elevation",
+              "label": "Elevation"
+            },
+            {
+              "fieldName": "CREATED_ON",
+              "label": "CREATED_ON"
+            },
+            {
+              "fieldName": "CREATED_BY",
+              "label": "CREATED_BY"
+            },
+            {
+              "fieldName": "LAST_MODIFIED_ON",
+              "label": "LAST_MODIFIED_ON"
+            },
+            {
+              "fieldName": "LAST_MODIFIED_BY",
+              "label": "LAST_MODIFIED_BY"
+            },
+            {
+              "fieldName": "SHAPE",
+              "label": "SHAPE"
+            },
+            {
+              "fieldName": "GlobalID",
+              "label": "GlobalID"
+            },
+            {
+              "fieldName": "SHAPE_Length",
+              "label": "SHAPE_Length"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Constituency Boundaries (2011)",
+    "id": 3,
+    "visible": false,
+    "popupTemplate": {
+      "title": "{ed_code}",
+      "content": [
+        {
+          "type": "fields",
+          "fieldInfos": [
+            {
+              "fieldName": "OBJECTID",
+              "label": "OBJECTID"
+            },
+            {
+              "fieldName": "ed_code",
+              "label": "ed_code"
+            },
+            {
+              "fieldName": "ed_desc",
+              "label": "ed_desc"
+            },
+            {
+              "fieldName": "inc_crc",
+              "label": "inc_crc"
+            },
+            {
+              "fieldName": "Object_ID",
+              "label": "Object_ID"
+            },
+            {
+              "fieldName": "Constituen",
+              "label": "Constituen"
+            },
+            {
+              "fieldName": "MP",
+              "label": "MP"
+            },
+            {
+              "fieldName": "SHAPE",
+              "label": "SHAPE"
+            },
+            {
+              "fieldName": "GlobalID",
+              "label": "GlobalID"
+            },
+            {
+              "fieldName": "SHAPE_Length",
+              "label": "SHAPE_Length"
+            },
+            {
+              "fieldName": "SHAPE_Area",
+              "label": "SHAPE_Area"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Electrical Stations (2006)",
+    "id": 2,
+    "visible": false,
+    "popupTemplate": {
+      "title": "{Layer}",
+      "content": [
+        {
+          "type": "fields",
+          "fieldInfos": [
+            {
+              "fieldName": "OBJECTID",
+              "label": "OBJECTID"
+            },
+            {
+              "fieldName": "Level_",
+              "label": "Level_"
+            },
+            {
+              "fieldName": "Layer",
+              "label": "Layer"
+            },
+            {
+              "fieldName": "G3E_FID",
+              "label": "G3E_FID"
+            },
+            {
+              "fieldName": "AMEND_DATE",
+              "label": "AMEND_DATE"
+            },
+            {
+              "fieldName": "AMEND_USER",
+              "label": "AMEND_USER"
+            },
+            {
+              "fieldName": "REF_NO",
+              "label": "REF_NO"
+            },
+            {
+              "fieldName": "OBJECT_LINK",
+              "label": "OBJECT_LINK"
+            },
+            {
+              "fieldName": "PLC_DATE",
+              "label": "PLC_DATE"
+            },
+            {
+              "fieldName": "PLC_USER",
+              "label": "PLC_USER"
+            },
+            {
+              "fieldName": "STATE",
+              "label": "STATE"
+            },
+            {
+              "fieldName": "SHAPE",
+              "label": "SHAPE"
+            },
+            {
+              "fieldName": "GlobalID",
+              "label": "GlobalID"
+            },
+            {
+              "fieldName": "SHAPE_Length",
+              "label": "SHAPE_Length"
+            },
+            {
+              "fieldName": "SHAPE_Area",
+              "label": "SHAPE_Area"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Gas Lines (2006)",
+    "id": 1,
+    "visible": false,
+    "popupTemplate": {
+      "title": "{Layer}",
+      "content": [
+        {
+          "type": "fields",
+          "fieldInfos": [
+            {
+              "fieldName": "OBJECTID",
+              "label": "OBJECTID"
+            },
+            {
+              "fieldName": "Level_",
+              "label": "Level_"
+            },
+            {
+              "fieldName": "Layer",
+              "label": "Layer"
+            },
+            {
+              "fieldName": "G3E_FID",
+              "label": "G3E_FID"
+            },
+            {
+              "fieldName": "AMEND_DATE",
+              "label": "AMEND_DATE"
+            },
+            {
+              "fieldName": "AMEND_USER",
+              "label": "AMEND_USER"
+            },
+            {
+              "fieldName": "REF_NO",
+              "label": "REF_NO"
+            },
+            {
+              "fieldName": "OBJECT_LINK",
+              "label": "OBJECT_LINK"
+            },
+            {
+              "fieldName": "PLC_DATE",
+              "label": "PLC_DATE"
+            },
+            {
+              "fieldName": "PLC_USER",
+              "label": "PLC_USER"
+            },
+            {
+              "fieldName": "STATE",
+              "label": "STATE"
+            },
+            {
+              "fieldName": "SHAPE",
+              "label": "SHAPE"
+            },
+            {
+              "fieldName": "GlobalID",
+              "label": "GlobalID"
+            },
+            {
+              "fieldName": "SHAPE_Length",
+              "label": "SHAPE_Length"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Electrical Lines (2006)",
+    "id": 0,
+    "visible": false,
+    "popupTemplate": {
+      "title": "{Layer}",
+      "content": [
+        {
+          "type": "fields",
+          "fieldInfos": [
+            {
+              "fieldName": "OBJECTID",
+              "label": "OBJECTID"
+            },
+            {
+              "fieldName": "Level_",
+              "label": "Level_"
+            },
+            {
+              "fieldName": "Layer",
+              "label": "Layer"
+            },
+            {
+              "fieldName": "G3E_FID",
+              "label": "G3E_FID"
+            },
+            {
+              "fieldName": "AMEND_DATE",
+              "label": "AMEND_DATE"
+            },
+            {
+              "fieldName": "AMEND_USER",
+              "label": "AMEND_USER"
+            },
+            {
+              "fieldName": "REF_NO",
+              "label": "REF_NO"
+            },
+            {
+              "fieldName": "OBJECT_LINK",
+              "label": "OBJECT_LINK"
+            },
+            {
+              "fieldName": "PLC_DATE",
+              "label": "PLC_DATE"
+            },
+            {
+              "fieldName": "PLC_USER",
+              "label": "PLC_USER"
+            },
+            {
+              "fieldName": "STATE",
+              "label": "STATE"
+            },
+            {
+              "fieldName": "SHAPE",
+              "label": "SHAPE"
+            },
+            {
+              "fieldName": "GlobalID",
+              "label": "GlobalID"
+            },
+            {
+              "fieldName": "SHAPE_Length",
+              "label": "SHAPE_Length"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

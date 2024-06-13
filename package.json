@@ -1,0 +1,14 @@
+{
+  "name": "generate-popup-template-script",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
