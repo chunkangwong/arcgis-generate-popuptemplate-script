@@ -86,7 +86,12 @@ const { output, token, url, help } = values;
 
 if (help || (!url && !token)) {
   console.log(`
-  Usage: generate-popup-template --url <url> --token <token> --output <output> 
+  Usage: bun start --url <url> --token <token> --output <output>
+
+  Options:
+    --url     URL of the feature service ending. Example: https://{domain}/{web_adapter}/rest/services/{service}/MapServer
+    --token   Token for the feature service requested with referrer as the client. Refer to the [documentation](https://developers.arcgis.com/rest/users-groups-and-items/generate-token/)
+    --output  Output file name. Example: popupTempalte.json
   `);
   process.exit(0);
 }
