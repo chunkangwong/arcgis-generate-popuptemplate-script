@@ -2,7 +2,15 @@ import { parseArgs } from "util";
 
 const generateMapLayers = async (url: string, token: string) => {
   const response = await fetch(`${url}/?f=json&token=${token}`);
+  if (!response.ok) {
+    console.error(response);
+    throw new Error(`Failed to fetch layer: ${url}`);
+  }
   const layers = await response.json();
+  if (layers.error) {
+    console.error(layers.error);
+    throw new Error(`Failed to fetch layer: ${url}`);
+  }
   const sublayers = (layers.layers || layers.subLayers).filter(
     (layer: { parentLayerId: number }) => layer.parentLayerId === -1
   );
@@ -20,7 +28,15 @@ const generatePopupTemplate = async (
   token: string
 ) => {
   const response = await fetch(`${url}/${id}?f=json&token=${token}`);
+  if (!response.ok) {
+    console.error(response);
+    throw new Error(`Failed to fetch layer with id ${id}`);
+  }
   const layer = await response.json();
+  if (layer.error) {
+    console.error(layer.error);
+    throw new Error(`Failed to fetch layer with id ${id}`);
+  }
   const sublayers = layer.layers || layer.subLayers;
   if (!sublayers || sublayers.length === 0) {
     return {
@@ -28,7 +44,7 @@ const generatePopupTemplate = async (
       id: layer.id,
       visible: layer.defaultVisibility,
       popupTemplate: {
-        title: `{${layer.displayField}}`,
+        title: layer.name,
         content: [
           {
             type: "fields",
