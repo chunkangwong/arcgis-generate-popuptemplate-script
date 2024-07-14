@@ -43,6 +43,8 @@ const generatePopupTemplate = async (
       title: layer.name,
       id: layer.id,
       visible: layer.defaultVisibility,
+      minScale: layer.minScale,
+      maxScale: layer.maxScale,
       popupTemplate: {
         title: layer.name,
         content: [
