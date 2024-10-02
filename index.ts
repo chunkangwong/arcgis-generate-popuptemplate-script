@@ -32,7 +32,7 @@ if (help || (!url && !token)) {
   Options:
     --url     URL of the feature service ending. Example: https://{domain}/{web_adapter}/rest/services/{service}/MapServer
     --token   Token for the feature service requested with referrer as the client. Refer to the [documentation](https://developers.arcgis.com/rest/users-groups-and-items/generate-token/)
-    --output  Output file name. Example: popupTempalte.json
+    --output  Output file name. Example: popupTemplate.json
   `);
   process.exit(0);
 }

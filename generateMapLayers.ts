@@ -1,5 +1,10 @@
 export const generateMapLayers = async (url: string, token: string) => {
-  const response = await fetch(`${url}/?f=json&token=${token}`);
+  const response = await fetch(`${url}/?f=json`, {
+    method: "POST",
+    headers: {
+      Authorization: "bearer " + token,
+    },
+  });
   if (!response.ok) {
     console.error(response);
     throw new Error(`Failed to fetch layer: ${url}`);
@@ -25,7 +30,12 @@ const generatePopupTemplate = async (
   id: number,
   token: string
 ) => {
-  const response = await fetch(`${url}/${id}?f=json&token=${token}`);
+  const response = await fetch(`${url}/${id}?f=json`, {
+    method: "POST",
+    headers: {
+      Authorization: "bearer " + token,
+    },
+  });
   if (!response.ok) {
     console.error(response);
     throw new Error(`Failed to fetch layer with id ${id}`);
